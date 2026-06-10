@@ -1,4 +1,4 @@
-<img width="1692" height="936" alt="index_export excell dll" src="https://github.com/user-attachments/assets/1aa85687-84bc-4b53-b645-075a53bf6389" /># SISTEM-CRUD-ANGGOTA-MENGGUNAKAN-LARAVEL
+# SISTEM-CRUD-ANGGOTA-MENGGUNAKAN-LARAVEL
 Pertemuan ini berfokus pada pengembangan fitur lanjutan modul anggota perpustakaan berbasis Laravel, meliputi auto-generate kode anggota berformat AGT-[TAHUN]-[NOMOR_URUT], export data ke Excel menggunakan package maatwebsite/excel, serta fitur search dan filter berdasarkan keyword, jenis kelamin, status, dan pekerjaan.
 
 ## Tugas Pertemuan 13
